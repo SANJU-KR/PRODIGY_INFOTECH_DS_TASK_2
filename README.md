@@ -54,10 +54,6 @@ Use this notebook to:
 - Generate visual insights from raw data
 - Use as a reference for future data science projects
 
-## 📝 Author
-
-**Sanju Kumar**  
-BCA (Specialization in Data Science and Big Data Analysis)
 
 ## 📜 License
 
